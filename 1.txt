@@ -4,7 +4,16 @@ C2 ...
 
 c3 ...
 
+<<<<<<< HEAD
 
 D1.... (master)
 
 D2 .... (master)
+=======
+B1 ... (beta)
+
+
+
+
+B2 ...  beta
+>>>>>>> beta
